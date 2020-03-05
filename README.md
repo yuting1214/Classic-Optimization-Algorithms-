@@ -33,3 +33,7 @@
 ![image](https://github.com/yuting1214/Classic-Optimization-Algorithms-/blob/master/image/QP5.jpg)
 
 ## Reference
+
+ - [1] : https://en.wikipedia.org/wiki/Quadratic_programming 
+ - [2] : S Boyd, L Vandenberghe,“Convex Optimization”- 2004 
+ - [3] : https://cran.r-project.org/web/views/Optimization.html
