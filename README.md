@@ -18,8 +18,18 @@
 
 ## Quadratic programming
 
+![image](https://github.com/yuting1214/Classic-Optimization-Algorithms-/blob/master/image/QP1.jpg)
+
 ## Solution methods
 
+![image](https://github.com/yuting1214/Classic-Optimization-Algorithms-/blob/master/image/QP2.jpg)
+
+![image](https://github.com/yuting1214/Classic-Optimization-Algorithms-/blob/master/image/QP3.jpg)
+
 ## Experimental result
+
+![image](https://github.com/yuting1214/Classic-Optimization-Algorithms-/blob/master/image/QP4.jpg)
+
+![image](https://github.com/yuting1214/Classic-Optimization-Algorithms-/blob/master/image/QP5.jpg)
 
 ## Reference
